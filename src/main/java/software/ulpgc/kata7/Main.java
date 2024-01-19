@@ -11,6 +11,6 @@ public class Main {
                 this.setLocationRelativeTo(null);
                 this.setDefaultCloseOperation(EXIT_ON_CLOSE);
             }
-        };
+        }.setVisible(true);
     }
 }
